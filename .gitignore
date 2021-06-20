@@ -1,3 +1,6 @@
+
+.vscode
+*.exe
 .DS_Store
 # Xcode
 #
